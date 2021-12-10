@@ -1,0 +1,3 @@
+GET request using curl
+
+curl --request GET https://jsonplaceholder.typicode.com/users
